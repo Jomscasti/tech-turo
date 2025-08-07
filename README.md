@@ -2,7 +2,7 @@
 
 Tech-Turo is a responsive, beginner-friendly online learning platform that highlights interactive course listings, personalized profiles, tech forums, and a bulletin system—perfect for IT learning environments or educational portfolios.
 
-🔗 **Live Preview:** [jomscasti.github.io/tech-turo](https://jomscasti.github.io/tech-turo)
+![Tech-Turo Preview](assets/img/preview.png)
 
 ---
 
@@ -30,7 +30,8 @@ tech-turo/
     │   │   ├── html.jpg
     │   │   ├── techturo.png
     │   │   ├── welcome.jpg
-    │   │   └── Wtech.png
+    │   │   ├── Wtech.png
+    │   │   └── preview.png
     │   └── shared/
     │       ├── bulletin.php
     │       ├── courses.php
@@ -43,7 +44,7 @@ tech-turo/
 ## ⚙️ How to Use
 
 1. Clone or download the repository.
-2. Launch `tech-turo/index.php` via a PHP server (e.g., XAMPP, MAMP, or live deployment).
+2. Launch `A02/index.php` via a PHP server (e.g., XAMPP, MAMP, or live deployment).
 3. Navigate using the top nav or responsive sidebar.
 4. Customize shared components under `assets/shared/`.
 
